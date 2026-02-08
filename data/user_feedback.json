@@ -1,41 +1,17 @@
 [
   {
-    "timestamp": "2026-02-08T12:34:06.590652",
+    "timestamp": "2026-02-08T22:30:55.617785",
     "user_name": "olamide",
-    "message": "Show me how to write if statement",
-    "response": "If statement dey help computer make decision. Like 'if age >= 18, print You fit vote'.",
+    "message": "How I go add 25 + 47?",
+    "response": "Addition na when you dey put numbers together. Like 5 + 7 = 12. You wan try?",
     "rating": "excellent",
     "comment": ""
   },
   {
-    "timestamp": "2026-02-08T12:34:09.097062",
+    "timestamp": "2026-02-08T22:30:57.884387",
     "user_name": "olamide",
-    "message": "Show me how to write if statement",
-    "response": "If statement dey help computer make decision. Like 'if age >= 18, print You fit vote'.",
-    "rating": "excellent",
-    "comment": ""
-  },
-  {
-    "timestamp": "2026-02-08T12:35:20.846461",
-    "user_name": "olamide",
-    "message": "I wan learn something new",
-    "response": "Hi! I dey here to help you learn Math and Coding. You fit ask me anything!",
-    "rating": "excellent",
-    "comment": ""
-  },
-  {
-    "timestamp": "2026-02-08T12:35:40.334010",
-    "user_name": "olamide",
-    "message": "I wan learn something new",
-    "response": "Hi! I dey here to help you learn Math and Coding. You fit ask me anything!",
-    "rating": "excellent",
-    "comment": ""
-  },
-  {
-    "timestamp": "2026-02-08T12:38:40.242754",
-    "user_name": "olamide",
-    "message": "I wan learn something new",
-    "response": "Hi! I dey here to help you learn Math and Coding. You fit ask me anything!",
+    "message": "How I go add 25 + 47?",
+    "response": "Addition na when you dey put numbers together. Like 5 + 7 = 12. You wan try?",
     "rating": "excellent",
     "comment": ""
   }
