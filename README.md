@@ -94,3 +94,8 @@ An intelligent chatbot that:
 ```bash
 git clone https://github.com/Olamide-dev007/Pidgin_AI_Tutor.git
 cd pidgin-ai-tutor
+
+## Latest Release
+[![Latest Release](https://img.shields.io/github/v/release/Olamide-dev007/Pidgin_AI_Tutor?color=green)](https://github.com/Olamide-dev007/Pidgin_AI_Tutor/releases/latest)
+
+Check out v0.1.0 – Initial Release: [View Release →](https://github.com/Olamide-dev007/Pidgin_AI_Tutor/releases/tag/v0.1.0)
