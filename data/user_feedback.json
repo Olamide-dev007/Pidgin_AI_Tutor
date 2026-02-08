@@ -1,0 +1,42 @@
+[
+  {
+    "timestamp": "2026-02-08T12:34:06.590652",
+    "user_name": "olamide",
+    "message": "Show me how to write if statement",
+    "response": "If statement dey help computer make decision. Like 'if age >= 18, print You fit vote'.",
+    "rating": "excellent",
+    "comment": ""
+  },
+  {
+    "timestamp": "2026-02-08T12:34:09.097062",
+    "user_name": "olamide",
+    "message": "Show me how to write if statement",
+    "response": "If statement dey help computer make decision. Like 'if age >= 18, print You fit vote'.",
+    "rating": "excellent",
+    "comment": ""
+  },
+  {
+    "timestamp": "2026-02-08T12:35:20.846461",
+    "user_name": "olamide",
+    "message": "I wan learn something new",
+    "response": "Hi! I dey here to help you learn Math and Coding. You fit ask me anything!",
+    "rating": "excellent",
+    "comment": ""
+  },
+  {
+    "timestamp": "2026-02-08T12:35:40.334010",
+    "user_name": "olamide",
+    "message": "I wan learn something new",
+    "response": "Hi! I dey here to help you learn Math and Coding. You fit ask me anything!",
+    "rating": "excellent",
+    "comment": ""
+  },
+  {
+    "timestamp": "2026-02-08T12:38:40.242754",
+    "user_name": "olamide",
+    "message": "I wan learn something new",
+    "response": "Hi! I dey here to help you learn Math and Coding. You fit ask me anything!",
+    "rating": "excellent",
+    "comment": ""
+  }
+]

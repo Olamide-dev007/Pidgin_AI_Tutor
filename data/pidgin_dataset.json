@@ -1,0 +1,706 @@
+[
+  {
+    "user_input": "Wetin be algebra?",
+    "bot_response": "Algebra na mathematics wey dey use letters like x, y, z to represent numbers wey we never know. E dey help us solve problem. For example, if you get x + 5 = 10, we fit find wetin x be by minus 5 from both sides. So x = 5.",
+    "category": "math",
+    "language": "pidgin",
+    "difficulty": "beginner",
+    "timestamp": "2026-02-08T11:52:56.339619"
+  },
+  {
+    "user_input": "How I go add 15 + 28?",
+    "bot_response": "Make I show you: 15 + 28 = 43. You fit do am like this: First add the ones place (5 + 8 = 13, write 3 carry 1). Then add tens place (1 + 2 + 1(carry) = 4). So answer na 43.",
+    "category": "math",
+    "language": "pidgin",
+    "difficulty": "beginner",
+    "timestamp": "2026-02-08T11:52:56.339675"
+  },
+  {
+    "user_input": "Add 89 + 56",
+    "bot_response": "89 + 56 = 145. Let me break am down: 9 + 6 = 15 (write 5, carry 1). Then 8 + 5 + 1 = 14. So 145!",
+    "category": "math",
+    "language": "pidgin",
+    "difficulty": "beginner",
+    "timestamp": "2026-02-08T11:52:56.339718"
+  },
+  {
+    "user_input": "Calculate 123 + 456",
+    "bot_response": "123 + 456 = 579. Start from right: 3+6=9, 2+5=7, 1+4=5. Answer na 579. Addition dey easy when you break am into place values!",
+    "category": "math",
+    "language": "pidgin",
+    "difficulty": "beginner",
+    "timestamp": "2026-02-08T11:52:56.339757"
+  },
+  {
+    "user_input": "Wetin be the sum of 44 and 77?",
+    "bot_response": "Sum na same thing as addition. 44 + 77 = 121. You fit add am quick by doing 40+70=110, then 4+7=11, so 110+11=121!",
+    "category": "math",
+    "language": "pidgin",
+    "difficulty": "beginner",
+    "timestamp": "2026-02-08T11:52:56.339801"
+  },
+  {
+    "user_input": "How I go subtract 50 - 23?",
+    "bot_response": "50 - 23 = 27. You fit do am like this: Start from the ones (0 - 3, you need borrow from tens). Borrow 1 from 5, so 10 - 3 = 7. Then 4 - 2 = 2. Answer na 27.",
+    "category": "math",
+    "language": "pidgin",
+    "difficulty": "beginner",
+    "timestamp": "2026-02-08T11:52:56.339831"
+  },
+  {
+    "user_input": "Subtract 100 - 37",
+    "bot_response": "100 - 37 = 63. From right: 0-7 (borrow), 10-7=3. Then 9-3=6 (after borrowing). Answer na 63!",
+    "category": "math",
+    "language": "pidgin",
+    "difficulty": "beginner",
+    "timestamp": "2026-02-08T11:52:56.339882"
+  },
+  {
+    "user_input": "Wetin be difference between 85 and 29?",
+    "bot_response": "Difference mean subtraction. 85 - 29 = 56. You fit check by adding back: 29 + 56 = 85!",
+    "category": "math",
+    "language": "pidgin",
+    "difficulty": "beginner",
+    "timestamp": "2026-02-08T11:52:56.339939"
+  },
+  {
+    "user_input": "Calculate 200 minus 78",
+    "bot_response": "200 - 78 = 122. E be like you get 200 naira and you spend 78 naira, you remain 122 naira!",
+    "category": "math",
+    "language": "pidgin",
+    "difficulty": "beginner",
+    "timestamp": "2026-02-08T11:52:56.340173"
+  },
+  {
+    "user_input": "Teach me multiplication",
+    "bot_response": "Multiplication na when you dey add one number many times. Like 3 × 4 means say you go add 3 four times: 3 + 3 + 3 + 3 = 12. E dey make calculation quick pass. You wan practice?",
+    "category": "math",
+    "language": "pidgin",
+    "difficulty": "beginner",
+    "timestamp": "2026-02-08T11:52:56.340246"
+  },
+  {
+    "user_input": "Calculate 12 × 7",
+    "bot_response": "12 × 7 = 84. Make I show you one trick: 12 × 7 = (10 × 7) + (2 × 7) = 70 + 14 = 84. This method dey called distributive property and e dey make multiplication easy.",
+    "category": "math",
+    "language": "pidgin",
+    "difficulty": "beginner",
+    "timestamp": "2026-02-08T11:52:56.340277"
+  },
+  {
+    "user_input": "Multiply 25 by 4",
+    "bot_response": "25 × 4 = 100. Easy trick: 25 na quarter of 100, so 25 × 4 must be 100! You fit also do 20×4=80, then 5×4=20, so 80+20=100.",
+    "category": "math",
+    "language": "pidgin",
+    "difficulty": "beginner",
+    "timestamp": "2026-02-08T11:52:56.340304"
+  },
+  {
+    "user_input": "Wetin be 8 times 9?",
+    "bot_response": "8 × 9 = 72. Trick to remember: 9 times table, the digits always add up to 9! Like 7+2=9. You fit also count: 9,18,27,36,45,54,63,72!",
+    "category": "math",
+    "language": "pidgin",
+    "difficulty": "beginner",
+    "timestamp": "2026-02-08T11:52:56.340362"
+  },
+  {
+    "user_input": "How I go multiply 15 × 6?",
+    "bot_response": "15 × 6 = 90. Method: (10 × 6) + (5 × 6) = 60 + 30 = 90. Or you fit count by 15s: 15, 30, 45, 60, 75, 90!",
+    "category": "math",
+    "language": "pidgin",
+    "difficulty": "beginner",
+    "timestamp": "2026-02-08T11:52:56.340397"
+  },
+  {
+    "user_input": "Calculate 11 × 11",
+    "bot_response": "11 × 11 = 121. For 11 times table, e get pattern: 11×1=11, 11×2=22, 11×3=33... up to 11×9=99. Then 11×10=110, 11×11=121!",
+    "category": "math",
+    "language": "pidgin",
+    "difficulty": "beginner",
+    "timestamp": "2026-02-08T11:52:56.340493"
+  },
+  {
+    "user_input": "How I go divide 24 by 6?",
+    "bot_response": "24 ÷ 6 = 4. E mean say if you share 24 things equally to 6 people, each person go get 4. You fit also think am as 'how many times 6 go fit enter 24?' Answer na 4 times.",
+    "category": "math",
+    "language": "pidgin",
+    "difficulty": "beginner",
+    "timestamp": "2026-02-08T11:52:56.340589"
+  },
+  {
+    "user_input": "Divide 100 by 5",
+    "bot_response": "100 ÷ 5 = 20. If you get 100 naira and you wan share am for 5 people equally, each person go get 20 naira!",
+    "category": "math",
+    "language": "pidgin",
+    "difficulty": "beginner",
+    "timestamp": "2026-02-08T11:52:56.340661"
+  },
+  {
+    "user_input": "Wetin be 81 divided by 9?",
+    "bot_response": "81 ÷ 9 = 9. E mean say 9 fit enter 81 exactly 9 times. You fit check by multiplying back: 9 × 9 = 81!",
+    "category": "math",
+    "language": "pidgin",
+    "difficulty": "beginner",
+    "timestamp": "2026-02-08T11:52:56.340739"
+  },
+  {
+    "user_input": "Calculate 144 ÷ 12",
+    "bot_response": "144 ÷ 12 = 12. So 12 fit enter 144 exactly 12 times. E be perfect square relationship!",
+    "category": "math",
+    "language": "pidgin",
+    "difficulty": "intermediate",
+    "timestamp": "2026-02-08T11:52:56.340774"
+  },
+  {
+    "user_input": "Wetin be fraction?",
+    "bot_response": "Fraction na when you divide something into parts. Like if you cut cake into 4 parts and you chop 1, you don chop 1/4 (one-quarter). The number for down (4) na denominator, the number for up (1) na numerator.",
+    "category": "math",
+    "language": "pidgin",
+    "difficulty": "intermediate",
+    "timestamp": "2026-02-08T11:52:56.340829"
+  },
+  {
+    "user_input": "How I go add 1/2 + 1/2?",
+    "bot_response": "1/2 + 1/2 = 1 whole! E be like you get half orange and another half orange, when you put them together, you get one complete orange!",
+    "category": "math",
+    "language": "pidgin",
+    "difficulty": "intermediate",
+    "timestamp": "2026-02-08T11:52:56.340886"
+  },
+  {
+    "user_input": "Wetin be 1/4 + 1/4?",
+    "bot_response": "1/4 + 1/4 = 2/4 = 1/2. E be like quarter plus quarter equals half! You fit always simplify fraction to the smallest form.",
+    "category": "math",
+    "language": "pidgin",
+    "difficulty": "intermediate",
+    "timestamp": "2026-02-08T11:52:56.340919"
+  },
+  {
+    "user_input": "How I go multiply fraction?",
+    "bot_response": "To multiply fractions, just multiply the top numbers together, and bottom numbers together. Like 1/2 × 1/3 = 1/6. E easy!",
+    "category": "math",
+    "language": "pidgin",
+    "difficulty": "intermediate",
+    "timestamp": "2026-02-08T11:52:56.341003"
+  },
+  {
+    "user_input": "Wetin be percentage?",
+    "bot_response": "Percentage na way to show part of 100. Like 50% means 50 out of 100, wey be half. If you score 80% for exam, e mean say you get 80 marks out of 100 possible marks.",
+    "category": "math",
+    "language": "pidgin",
+    "difficulty": "intermediate",
+    "timestamp": "2026-02-08T11:52:56.341061"
+  },
+  {
+    "user_input": "How I go calculate 10% of 200?",
+    "bot_response": "10% of 200 = 20. Easy trick: 10% na same as dividing by 10! So 200 ÷ 10 = 20. This trick dey work for any number!",
+    "category": "math",
+    "language": "pidgin",
+    "difficulty": "intermediate",
+    "timestamp": "2026-02-08T11:52:56.341112"
+  },
+  {
+    "user_input": "Wetin be 25% of 100?",
+    "bot_response": "25% of 100 = 25. Remember: 25% na quarter, so 25% of 100 na 100 ÷ 4 = 25!",
+    "category": "math",
+    "language": "pidgin",
+    "difficulty": "intermediate",
+    "timestamp": "2026-02-08T11:52:56.341198"
+  },
+  {
+    "user_input": "Calculate 50% of 80",
+    "bot_response": "50% of 80 = 40. 50% na half, so just divide by 2: 80 ÷ 2 = 40. E simple!",
+    "category": "math",
+    "language": "pidgin",
+    "difficulty": "intermediate",
+    "timestamp": "2026-02-08T11:52:56.341266"
+  },
+  {
+    "user_input": "Wetin be decimal?",
+    "bot_response": "Decimal na way to write numbers wey no complete. Like 2.5 na 2 and half. The dot (.) separate the whole number from the fraction part.",
+    "category": "math",
+    "language": "pidgin",
+    "difficulty": "intermediate",
+    "timestamp": "2026-02-08T11:52:56.341314"
+  },
+  {
+    "user_input": "How I go add 2.5 + 3.7?",
+    "bot_response": "2.5 + 3.7 = 6.2. Add the whole numbers: 2+3=5. Add the decimals: 0.5+0.7=1.2. Then 5+1.2=6.2!",
+    "category": "math",
+    "language": "pidgin",
+    "difficulty": "intermediate",
+    "timestamp": "2026-02-08T11:52:56.341369"
+  },
+  {
+    "user_input": "If I get 5 oranges and buy 3 more, how many I get?",
+    "bot_response": "You go get 8 oranges total! 5 + 3 = 8. This one na addition word problem!",
+    "category": "math",
+    "language": "pidgin",
+    "difficulty": "beginner",
+    "timestamp": "2026-02-08T11:52:56.341444"
+  },
+  {
+    "user_input": "Ada get 20 naira, she spend 12 naira. Wetin remain?",
+    "bot_response": "20 - 12 = 8 naira remain for Ada. She don spend 12, so she get 8 naira left!",
+    "category": "math",
+    "language": "pidgin",
+    "difficulty": "beginner",
+    "timestamp": "2026-02-08T11:52:56.341525"
+  },
+  {
+    "user_input": "If 1 book cost 50 naira, how much be 6 books?",
+    "bot_response": "6 books go cost 300 naira! 50 × 6 = 300. Just multiply the price by the number of books!",
+    "category": "math",
+    "language": "pidgin",
+    "difficulty": "beginner",
+    "timestamp": "2026-02-08T11:52:56.341587"
+  },
+  {
+    "user_input": "Wetin be programming?",
+    "bot_response": "Programming na when you dey write instructions for computer to follow. E be like when you dey give your younger one instructions to do something, but for computer, the instructions must dey very clear and specific. We call am 'code'.",
+    "category": "coding",
+    "language": "pidgin",
+    "difficulty": "beginner",
+    "timestamp": "2026-02-08T11:52:56.341726"
+  },
+  {
+    "user_input": "Why I go learn programming?",
+    "bot_response": "Programming go help you: 1) Build your own apps and websites 2) Get better job wey dey pay well 3) Solve problems with technology 4) Create things wey fit help people. E be valuable skill for today world!",
+    "category": "coding",
+    "language": "pidgin",
+    "difficulty": "beginner",
+    "timestamp": "2026-02-08T11:52:56.341845"
+  },
+  {
+    "user_input": "Wetin be code?",
+    "bot_response": "Code na the instructions wey you write for programming language. E be like recipe wey tell computer wetin to do step by step!",
+    "category": "coding",
+    "language": "pidgin",
+    "difficulty": "beginner",
+    "timestamp": "2026-02-08T11:52:56.342311"
+  },
+  {
+    "user_input": "How I go start learn Python?",
+    "bot_response": "Python na very good language to start! E easy and e dey useful. First thing, you go learn how to print message: print('Hello World'). This line go make computer display 'Hello World' for screen. You wan see example?",
+    "category": "coding",
+    "language": "pidgin",
+    "difficulty": "beginner",
+    "timestamp": "2026-02-08T11:52:56.342432"
+  },
+  {
+    "user_input": "Wetin be Python?",
+    "bot_response": "Python na programming language wey dey very popular and easy to learn. People dey use am build websites, apps, AI, games, and plenty other things. E get simple syntax wey dey read like English!",
+    "category": "coding",
+    "language": "pidgin",
+    "difficulty": "beginner",
+    "timestamp": "2026-02-08T11:52:56.342546"
+  },
+  {
+    "user_input": "Show me Python example",
+    "bot_response": "Simple Python example:\n\nprint('Hello Nigeria!')\n\nThis one line go display 'Hello Nigeria!' for your screen. E simple abi?",
+    "category": "coding",
+    "language": "pidgin",
+    "difficulty": "beginner",
+    "timestamp": "2026-02-08T11:52:56.342663"
+  },
+  {
+    "user_input": "Wetin be variable for programming?",
+    "bot_response": "Variable na like box wey you fit keep information inside. For Python, you fit write: name = 'Chidi'. Now, anytime you write 'name', computer go remember say na 'Chidi'. E dey help us store and use data.",
+    "category": "coding",
+    "language": "pidgin",
+    "difficulty": "beginner",
+    "timestamp": "2026-02-08T11:52:56.342720"
+  },
+  {
+    "user_input": "How I go create variable?",
+    "bot_response": "To create variable for Python, just write the name, equals sign, then the value:\n\nage = 25\nname = 'Ada'\nprice = 500.50\n\nE simple like that!",
+    "category": "coding",
+    "language": "pidgin",
+    "difficulty": "beginner",
+    "timestamp": "2026-02-08T11:52:56.342759"
+  },
+  {
+    "user_input": "Fit I change variable value?",
+    "bot_response": "Yes! You fit change variable anytime:\n\nscore = 10\nprint(score)  # Shows 10\n\nscore = 20\nprint(score)  # Shows 20\n\nThe variable go always hold the latest value!",
+    "category": "coding",
+    "language": "pidgin",
+    "difficulty": "beginner",
+    "timestamp": "2026-02-08T11:52:56.342825"
+  },
+  {
+    "user_input": "Wetin be data types?",
+    "bot_response": "Data types na different kinds of information:\n\n- int (whole numbers): age = 25\n- float (decimal): price = 99.99\n- string (text): name = 'Tunde'\n- bool (True/False): is_student = True\n\nPython smart, e go know which type automatically!",
+    "category": "coding",
+    "language": "pidgin",
+    "difficulty": "beginner",
+    "timestamp": "2026-02-08T11:52:56.342897"
+  },
+  {
+    "user_input": "How I go use print?",
+    "bot_response": "Print dey display message for screen:\n\nprint('Hello')\nprint(25)\nprint('I get', 5, 'oranges')\n\nYou fit print text, numbers, or mix them together!",
+    "category": "coding",
+    "language": "pidgin",
+    "difficulty": "beginner",
+    "timestamp": "2026-02-08T11:52:56.342958"
+  },
+  {
+    "user_input": "Wetin be f-string?",
+    "bot_response": "F-string na modern way to format text for Python:\n\nname = 'Bola'\nage = 20\nprint(f'My name na {name}, I be {age} years')\n\nE go show: My name na Bola, I be 20 years. The {curly braces} dey put variable values inside text!",
+    "category": "coding",
+    "language": "pidgin",
+    "difficulty": "intermediate",
+    "timestamp": "2026-02-08T11:52:56.342990"
+  },
+  {
+    "user_input": "How I go use input for Python?",
+    "bot_response": "Input dey allow your program ask user for information. See:\n\nname = input('Wetin be your name? ')\nprint(f'Hello {name}!')\n\nThe program go wait make user type their name, then e go greet them.",
+    "category": "coding",
+    "language": "pidgin",
+    "difficulty": "beginner",
+    "timestamp": "2026-02-08T11:52:56.343042"
+  },
+  {
+    "user_input": "Input dey always give string?",
+    "bot_response": "Yes! Input always give string. If you wan number, you need convert am:\n\nage = input('How old you be? ')\nage = int(age)  # Convert to number\n\nOr short way:\nage = int(input('How old you be? '))",
+    "category": "coding",
+    "language": "pidgin",
+    "difficulty": "intermediate",
+    "timestamp": "2026-02-08T11:52:56.343073"
+  },
+  {
+    "user_input": "Show me how to write if statement",
+    "bot_response": "If statement dey help computer make decision. See example:\n\nage = 18\nif age >= 18:\n    print('You don old reach to vote')\nelse:\n    print('You never old reach')\n\nThe computer go check the condition and decide which code to run.",
+    "category": "coding",
+    "language": "pidgin",
+    "difficulty": "intermediate",
+    "timestamp": "2026-02-08T11:52:56.343175"
+  },
+  {
+    "user_input": "Wetin be if-elif-else?",
+    "bot_response": "Elif na 'else if', e dey allow you check multiple conditions:\n\nscore = 75\nif score >= 90:\n    print('Excellent!')\nelif score >= 70:\n    print('Good!')\nelif score >= 50:\n    print('Pass')\nelse:\n    print('Fail')\n\nE go check from top to bottom until e find True condition!",
+    "category": "coding",
+    "language": "pidgin",
+    "difficulty": "intermediate",
+    "timestamp": "2026-02-08T11:52:56.343243"
+  },
+  {
+    "user_input": "Wetin be loop?",
+    "bot_response": "Loop na when you wan make computer do something many times. Like if you wan print numbers from 1 to 5:\n\nfor i in range(1, 6):\n    print(i)\n\nThis go print 1, 2, 3, 4, 5. E dey save time pass to write am one by one.",
+    "category": "coding",
+    "language": "pidgin",
+    "difficulty": "beginner",
+    "timestamp": "2026-02-08T11:52:56.343290"
+  },
+  {
+    "user_input": "Wetin be for loop?",
+    "bot_response": "For loop dey repeat code specific number of times:\n\nfor i in range(5):\n    print('Hello')\n\nThis go print 'Hello' 5 times. Range(5) mean 0,1,2,3,4!",
+    "category": "coding",
+    "language": "pidgin",
+    "difficulty": "beginner",
+    "timestamp": "2026-02-08T11:52:56.343334"
+  },
+  {
+    "user_input": "Wetin be while loop?",
+    "bot_response": "While loop dey continue until condition become False:\n\ncount = 0\nwhile count < 5:\n    print(count)\n    count = count + 1\n\nE go print 0,1,2,3,4. Make sure the condition go become False, if not, infinite loop!",
+    "category": "coding",
+    "language": "pidgin",
+    "difficulty": "intermediate",
+    "timestamp": "2026-02-08T11:52:56.343430"
+  },
+  {
+    "user_input": "Wetin be list for Python?",
+    "bot_response": "List na like basket wey you fit put many things inside. For Python:\n\nfruits = ['apple', 'banana', 'orange']\n\nYou fit add, remove, or change things inside the list. E dey very useful for organizing data.",
+    "category": "coding",
+    "language": "pidgin",
+    "difficulty": "beginner",
+    "timestamp": "2026-02-08T11:52:56.343497"
+  },
+  {
+    "user_input": "How I go add to list?",
+    "bot_response": "Use append() to add:\n\nfruits = ['apple']\nfruits.append('banana')\nprint(fruits)  # ['apple', 'banana']\n\nOr use insert() to add for specific position:\nfruits.insert(0, 'orange')  # Add for beginning",
+    "category": "coding",
+    "language": "pidgin",
+    "difficulty": "beginner",
+    "timestamp": "2026-02-08T11:52:56.343542"
+  },
+  {
+    "user_input": "How I go remove from list?",
+    "bot_response": "You get different ways:\n\nfruits = ['apple', 'banana', 'orange']\nfruits.remove('banana')  # Remove by value\nfruits.pop()  # Remove last item\nfruits.pop(0)  # Remove first item\n\nChoose which one based on wetin you wan do!",
+    "category": "coding",
+    "language": "pidgin",
+    "difficulty": "intermediate",
+    "timestamp": "2026-02-08T11:52:56.343593"
+  },
+  {
+    "user_input": "How I go write function for Python?",
+    "bot_response": "Function na block of code wey you fit use many times. See example:\n\ndef greet(name):\n    print(f'Hello {name}!')\n\ngreet('Ada')\n\nThis function go print 'Hello Ada!'. You fit call am anytime with different names.",
+    "category": "coding",
+    "language": "pidgin",
+    "difficulty": "intermediate",
+    "timestamp": "2026-02-08T11:52:56.343633"
+  },
+  {
+    "user_input": "Wetin be function parameter?",
+    "bot_response": "Parameter na information wey function need:\n\ndef add(a, b):\n    return a + b\n\nresult = add(5, 3)  # result = 8\n\n'a' and 'b' na parameters. When you call add(5, 3), a=5 and b=3!",
+    "category": "coding",
+    "language": "pidgin",
+    "difficulty": "intermediate",
+    "timestamp": "2026-02-08T11:52:56.343731"
+  },
+  {
+    "user_input": "Wetin be return?",
+    "bot_response": "Return dey send value back from function:\n\ndef multiply(x, y):\n    return x * y\n\nanswer = multiply(4, 5)  # answer = 20\n\nWithout return, the function go just do work but no give you result!",
+    "category": "coding",
+    "language": "pidgin",
+    "difficulty": "intermediate",
+    "timestamp": "2026-02-08T11:52:56.343807"
+  },
+  {
+    "user_input": "Wetin be dictionary for Python?",
+    "bot_response": "Dictionary na like real dictionary - e store key-value pairs:\n\nperson = {\n    'name': 'Chidi',\n    'age': 25,\n    'city': 'Lagos'\n}\n\nprint(person['name'])  # Shows 'Chidi'\n\nE perfect for storing related information!",
+    "category": "coding",
+    "language": "pidgin",
+    "difficulty": "intermediate",
+    "timestamp": "2026-02-08T11:52:56.343855"
+  },
+  {
+    "user_input": "How I go work with strings?",
+    "bot_response": "Strings get plenty methods:\n\ntext = 'hello world'\nprint(text.upper())  # 'HELLO WORLD'\nprint(text.capitalize())  # 'Hello world'\nprint(text.replace('world', 'Nigeria'))  # 'hello Nigeria'\nprint(len(text))  # 11\n\nPython get many ways to manipulate text!",
+    "category": "coding",
+    "language": "pidgin",
+    "difficulty": "intermediate",
+    "timestamp": "2026-02-08T11:52:56.343895"
+  },
+  {
+    "user_input": "Wetin be comment for code?",
+    "bot_response": "Comments na notes for human, computer go ignore them:\n\n# This na single line comment\nage = 25  # You fit add comment after code\n\n'''\nThis one na\nmultiple line comment\n'''\n\nComments dey help explain wetin your code dey do!",
+    "category": "coding",
+    "language": "pidgin",
+    "difficulty": "beginner",
+    "timestamp": "2026-02-08T11:52:56.343932"
+  },
+  {
+    "user_input": "Wetin I go do if I get error?",
+    "bot_response": "Errors dey normal for programming! Read the error message, e go tell you:\n\n1) Which line get problem\n2) Wetin the problem be\n\nCommon errors:\n- SyntaxError: You write code wrong\n- NameError: Variable no exist\n- TypeError: Wrong data type\n\nNo fear error, na part of learning!",
+    "category": "coding",
+    "language": "pidgin",
+    "difficulty": "beginner",
+    "timestamp": "2026-02-08T11:52:56.344001"
+  },
+  {
+    "user_input": "Hello",
+    "bot_response": "Hello! How you dey? I be AI wey dey teach Mathematics and Coding for Pidgin. Wetin you wan learn today?",
+    "category": "general",
+    "language": "pidgin",
+    "difficulty": "beginner",
+    "timestamp": "2026-02-08T11:52:56.344185"
+  },
+  {
+    "user_input": "Hi",
+    "bot_response": "Hi! Welcome! I happy say you come. You wan learn Math or Coding today?",
+    "category": "general",
+    "language": "pidgin",
+    "difficulty": "beginner",
+    "timestamp": "2026-02-08T11:52:56.344223"
+  },
+  {
+    "user_input": "Good morning",
+    "bot_response": "Good morning! How your night? You ready to learn something new this morning?",
+    "category": "general",
+    "language": "pidgin",
+    "difficulty": "beginner",
+    "timestamp": "2026-02-08T11:52:56.344248"
+  },
+  {
+    "user_input": "Good afternoon",
+    "bot_response": "Good afternoon! Hope say your day dey go well. Wetin you wan learn this afternoon?",
+    "category": "general",
+    "language": "pidgin",
+    "difficulty": "beginner",
+    "timestamp": "2026-02-08T11:52:56.344271"
+  },
+  {
+    "user_input": "Good evening",
+    "bot_response": "Good evening! How your day been? Make we learn something before night reach!",
+    "category": "general",
+    "language": "pidgin",
+    "difficulty": "beginner",
+    "timestamp": "2026-02-08T11:52:56.344295"
+  },
+  {
+    "user_input": "I wan learn coding",
+    "bot_response": "Coding na very good skill to learn! E fit help you build apps, websites, and many useful things. You don do any programming before or you be complete beginner?",
+    "category": "general",
+    "language": "pidgin",
+    "difficulty": "beginner",
+    "timestamp": "2026-02-08T11:52:56.344319"
+  },
+  {
+    "user_input": "I wan learn mathematics",
+    "bot_response": "Mathematics na important subject! E go help you for everyday life and for any career. Which part of Math you wan start with? Addition, Subtraction, Fractions?",
+    "category": "general",
+    "language": "pidgin",
+    "difficulty": "beginner",
+    "timestamp": "2026-02-08T11:52:56.344341"
+  },
+  {
+    "user_input": "I be complete beginner",
+    "bot_response": "No problem at all! Everybody start from somewhere. I go teach you from the very beginning, step by step. We go start with the basics and build from there. You ready?",
+    "category": "general",
+    "language": "pidgin",
+    "difficulty": "beginner",
+    "timestamp": "2026-02-08T11:52:56.344365"
+  },
+  {
+    "user_input": "Wetin you fit teach me?",
+    "bot_response": "I fit teach you:\n📐 Mathematics - Addition, Subtraction, Multiplication, Division, Fractions, Percentages, Algebra\n💻 Coding - Python basics, Variables, Functions, Loops, Lists\n\nJust tell me which one you wan learn!",
+    "category": "general",
+    "language": "pidgin",
+    "difficulty": "beginner",
+    "timestamp": "2026-02-08T11:52:56.344388"
+  },
+  {
+    "user_input": "I no understand",
+    "bot_response": "No worry! Make I try explain am again for different way. Which part you no understand? Ask me specific question and I go break am down small small.",
+    "category": "general",
+    "language": "pidgin",
+    "difficulty": "beginner",
+    "timestamp": "2026-02-08T11:52:56.344410"
+  },
+  {
+    "user_input": "E hard o",
+    "bot_response": "I know say e fit look hard at first, but make we take am slow. No rush! Ask me any part wey confuse you, and I go explain am better. Remember, practice make perfect!",
+    "category": "general",
+    "language": "pidgin",
+    "difficulty": "beginner",
+    "timestamp": "2026-02-08T11:52:56.344433"
+  },
+  {
+    "user_input": "Help me",
+    "bot_response": "I dey here to help you! Tell me wetin you need help with - Math question or Coding problem? The more specific you be, the better I fit help you.",
+    "category": "general",
+    "language": "pidgin",
+    "difficulty": "beginner",
+    "timestamp": "2026-02-08T11:52:56.344656"
+  },
+  {
+    "user_input": "I confuse",
+    "bot_response": "No problem, confusion na part of learning! Make you ask me specific question about the part wey confuse you. We go sort am out together!",
+    "category": "general",
+    "language": "pidgin",
+    "difficulty": "beginner",
+    "timestamp": "2026-02-08T11:52:56.344788"
+  },
+  {
+    "user_input": "You dey help me well well",
+    "bot_response": "I happy say I fit help you! Learning na journey, and you dey do well. Continue to ask questions, na so person dey learn quick.",
+    "category": "general",
+    "language": "pidgin",
+    "difficulty": "beginner",
+    "timestamp": "2026-02-08T11:52:56.344958"
+  },
+  {
+    "user_input": "I dey learn",
+    "bot_response": "That's the spirit! You dey do very well. Keep practicing and you go become expert soon. Wetin you wan learn next?",
+    "category": "general",
+    "language": "pidgin",
+    "difficulty": "beginner",
+    "timestamp": "2026-02-08T11:52:56.345035"
+  },
+  {
+    "user_input": "I dey improve",
+    "bot_response": "Excellent! I dey proud of your progress. E no easy but you dey make am happen. Continue like this and you go reach your goal!",
+    "category": "general",
+    "language": "pidgin",
+    "difficulty": "beginner",
+    "timestamp": "2026-02-08T11:52:56.345086"
+  },
+  {
+    "user_input": "Thank you",
+    "bot_response": "You dey welcome! If you get any question about Mathematics or Coding, just ask me. I dey here to help you learn.",
+    "category": "general",
+    "language": "pidgin",
+    "difficulty": "beginner",
+    "timestamp": "2026-02-08T11:52:56.345269"
+  },
+  {
+    "user_input": "Thanks",
+    "bot_response": "No problem at all! I happy say I fit help you. Come back anytime you wan learn more!",
+    "category": "general",
+    "language": "pidgin",
+    "difficulty": "beginner",
+    "timestamp": "2026-02-08T11:52:56.345408"
+  },
+  {
+    "user_input": "I appreciate",
+    "bot_response": "You dey very welcome! Na my pleasure to help you learn. If you need anything else, just holla!",
+    "category": "general",
+    "language": "pidgin",
+    "difficulty": "beginner",
+    "timestamp": "2026-02-08T11:52:56.345521"
+  },
+  {
+    "user_input": "Bye",
+    "bot_response": "Bye bye! Come back anytime you wan learn something new. I go dey here waiting. Keep practicing what you don learn!",
+    "category": "general",
+    "language": "pidgin",
+    "difficulty": "beginner",
+    "timestamp": "2026-02-08T11:52:56.345578"
+  },
+  {
+    "user_input": "See you later",
+    "bot_response": "See you later! Hope say you don learn something new today. Practice well and come back when you ready for more!",
+    "category": "general",
+    "language": "pidgin",
+    "difficulty": "beginner",
+    "timestamp": "2026-02-08T11:52:56.345614"
+  },
+  {
+    "user_input": "Goodbye",
+    "bot_response": "Goodbye! You do well today. Remember to practice what we don learn. I dey wait you next time!",
+    "category": "general",
+    "language": "pidgin",
+    "difficulty": "beginner",
+    "timestamp": "2026-02-08T11:52:56.345646"
+  },
+  {
+    "user_input": "Who you be?",
+    "bot_response": "I be AI tutor wey dey teach Mathematics and Coding for Nigerian Pidgin English. My job na to make learning easy and fun for you!",
+    "category": "general",
+    "language": "pidgin",
+    "difficulty": "beginner",
+    "timestamp": "2026-02-08T11:52:56.345679"
+  },
+  {
+    "user_input": "How you dey work?",
+    "bot_response": "I be AI (Artificial Intelligence) wey dem train to understand Pidgin and explain Math and Coding concepts. You ask question, I go give you answer for way wey you go understand!",
+    "category": "general",
+    "language": "pidgin",
+    "difficulty": "beginner",
+    "timestamp": "2026-02-08T11:52:56.345711"
+  },
+  {
+    "user_input": "You na human?",
+    "bot_response": "No, I no be human. I be AI chatbot wey dem program to help people learn. But I dey do my best to explain things like how good teacher go do am!",
+    "category": "general",
+    "language": "pidgin",
+    "difficulty": "beginner",
+    "timestamp": "2026-02-08T11:52:56.345749"
+  },
+  {
+    "user_input": "I fit learn am?",
+    "bot_response": "Yes! You fit definitely learn am! Everybody fit learn Math and Coding if them get the right teacher and them practice. I dey here to guide you every step. Believe for yourself!",
+    "category": "general",
+    "language": "pidgin",
+    "difficulty": "beginner",
+    "timestamp": "2026-02-08T11:52:56.345781"
+  },
+  {
+    "user_input": "E go hard?",
+    "bot_response": "E fit look hard at first, but as you dey practice, e go become easier. The key na to start small, practice well, and no give up. I go dey with you throughout the journey!",
+    "category": "general",
+    "language": "pidgin",
+    "difficulty": "beginner",
+    "timestamp": "2026-02-08T11:52:56.345812"
+  }
+]

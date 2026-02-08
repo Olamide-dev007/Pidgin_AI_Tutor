@@ -1,0 +1,255 @@
+user_input,bot_response,category,language,difficulty,timestamp
+Wetin be algebra?,"Algebra na mathematics wey dey use letters like x, y, z to represent numbers wey we never know. E dey help us solve problem. For example, if you get x + 5 = 10, we fit find wetin x be by minus 5 from both sides. So x = 5.",math,pidgin,beginner,2026-02-08T11:52:56.339619
+How I go add 15 + 28?,"Make I show you: 15 + 28 = 43. You fit do am like this: First add the ones place (5 + 8 = 13, write 3 carry 1). Then add tens place (1 + 2 + 1(carry) = 4). So answer na 43.",math,pidgin,beginner,2026-02-08T11:52:56.339675
+Add 89 + 56,"89 + 56 = 145. Let me break am down: 9 + 6 = 15 (write 5, carry 1). Then 8 + 5 + 1 = 14. So 145!",math,pidgin,beginner,2026-02-08T11:52:56.339718
+Calculate 123 + 456,"123 + 456 = 579. Start from right: 3+6=9, 2+5=7, 1+4=5. Answer na 579. Addition dey easy when you break am into place values!",math,pidgin,beginner,2026-02-08T11:52:56.339757
+Wetin be the sum of 44 and 77?,"Sum na same thing as addition. 44 + 77 = 121. You fit add am quick by doing 40+70=110, then 4+7=11, so 110+11=121!",math,pidgin,beginner,2026-02-08T11:52:56.339801
+How I go subtract 50 - 23?,"50 - 23 = 27. You fit do am like this: Start from the ones (0 - 3, you need borrow from tens). Borrow 1 from 5, so 10 - 3 = 7. Then 4 - 2 = 2. Answer na 27.",math,pidgin,beginner,2026-02-08T11:52:56.339831
+Subtract 100 - 37,"100 - 37 = 63. From right: 0-7 (borrow), 10-7=3. Then 9-3=6 (after borrowing). Answer na 63!",math,pidgin,beginner,2026-02-08T11:52:56.339882
+Wetin be difference between 85 and 29?,Difference mean subtraction. 85 - 29 = 56. You fit check by adding back: 29 + 56 = 85!,math,pidgin,beginner,2026-02-08T11:52:56.339939
+Calculate 200 minus 78,"200 - 78 = 122. E be like you get 200 naira and you spend 78 naira, you remain 122 naira!",math,pidgin,beginner,2026-02-08T11:52:56.340173
+Teach me multiplication,Multiplication na when you dey add one number many times. Like 3 × 4 means say you go add 3 four times: 3 + 3 + 3 + 3 = 12. E dey make calculation quick pass. You wan practice?,math,pidgin,beginner,2026-02-08T11:52:56.340246
+Calculate 12 × 7,12 × 7 = 84. Make I show you one trick: 12 × 7 = (10 × 7) + (2 × 7) = 70 + 14 = 84. This method dey called distributive property and e dey make multiplication easy.,math,pidgin,beginner,2026-02-08T11:52:56.340277
+Multiply 25 by 4,"25 × 4 = 100. Easy trick: 25 na quarter of 100, so 25 × 4 must be 100! You fit also do 20×4=80, then 5×4=20, so 80+20=100.",math,pidgin,beginner,2026-02-08T11:52:56.340304
+Wetin be 8 times 9?,"8 × 9 = 72. Trick to remember: 9 times table, the digits always add up to 9! Like 7+2=9. You fit also count: 9,18,27,36,45,54,63,72!",math,pidgin,beginner,2026-02-08T11:52:56.340362
+How I go multiply 15 × 6?,"15 × 6 = 90. Method: (10 × 6) + (5 × 6) = 60 + 30 = 90. Or you fit count by 15s: 15, 30, 45, 60, 75, 90!",math,pidgin,beginner,2026-02-08T11:52:56.340397
+Calculate 11 × 11,"11 × 11 = 121. For 11 times table, e get pattern: 11×1=11, 11×2=22, 11×3=33... up to 11×9=99. Then 11×10=110, 11×11=121!",math,pidgin,beginner,2026-02-08T11:52:56.340493
+How I go divide 24 by 6?,"24 ÷ 6 = 4. E mean say if you share 24 things equally to 6 people, each person go get 4. You fit also think am as 'how many times 6 go fit enter 24?' Answer na 4 times.",math,pidgin,beginner,2026-02-08T11:52:56.340589
+Divide 100 by 5,"100 ÷ 5 = 20. If you get 100 naira and you wan share am for 5 people equally, each person go get 20 naira!",math,pidgin,beginner,2026-02-08T11:52:56.340661
+Wetin be 81 divided by 9?,81 ÷ 9 = 9. E mean say 9 fit enter 81 exactly 9 times. You fit check by multiplying back: 9 × 9 = 81!,math,pidgin,beginner,2026-02-08T11:52:56.340739
+Calculate 144 ÷ 12,144 ÷ 12 = 12. So 12 fit enter 144 exactly 12 times. E be perfect square relationship!,math,pidgin,intermediate,2026-02-08T11:52:56.340774
+Wetin be fraction?,"Fraction na when you divide something into parts. Like if you cut cake into 4 parts and you chop 1, you don chop 1/4 (one-quarter). The number for down (4) na denominator, the number for up (1) na numerator.",math,pidgin,intermediate,2026-02-08T11:52:56.340829
+How I go add 1/2 + 1/2?,"1/2 + 1/2 = 1 whole! E be like you get half orange and another half orange, when you put them together, you get one complete orange!",math,pidgin,intermediate,2026-02-08T11:52:56.340886
+Wetin be 1/4 + 1/4?,1/4 + 1/4 = 2/4 = 1/2. E be like quarter plus quarter equals half! You fit always simplify fraction to the smallest form.,math,pidgin,intermediate,2026-02-08T11:52:56.340919
+How I go multiply fraction?,"To multiply fractions, just multiply the top numbers together, and bottom numbers together. Like 1/2 × 1/3 = 1/6. E easy!",math,pidgin,intermediate,2026-02-08T11:52:56.341003
+Wetin be percentage?,"Percentage na way to show part of 100. Like 50% means 50 out of 100, wey be half. If you score 80% for exam, e mean say you get 80 marks out of 100 possible marks.",math,pidgin,intermediate,2026-02-08T11:52:56.341061
+How I go calculate 10% of 200?,10% of 200 = 20. Easy trick: 10% na same as dividing by 10! So 200 ÷ 10 = 20. This trick dey work for any number!,math,pidgin,intermediate,2026-02-08T11:52:56.341112
+Wetin be 25% of 100?,"25% of 100 = 25. Remember: 25% na quarter, so 25% of 100 na 100 ÷ 4 = 25!",math,pidgin,intermediate,2026-02-08T11:52:56.341198
+Calculate 50% of 80,"50% of 80 = 40. 50% na half, so just divide by 2: 80 ÷ 2 = 40. E simple!",math,pidgin,intermediate,2026-02-08T11:52:56.341266
+Wetin be decimal?,Decimal na way to write numbers wey no complete. Like 2.5 na 2 and half. The dot (.) separate the whole number from the fraction part.,math,pidgin,intermediate,2026-02-08T11:52:56.341314
+How I go add 2.5 + 3.7?,2.5 + 3.7 = 6.2. Add the whole numbers: 2+3=5. Add the decimals: 0.5+0.7=1.2. Then 5+1.2=6.2!,math,pidgin,intermediate,2026-02-08T11:52:56.341369
+"If I get 5 oranges and buy 3 more, how many I get?",You go get 8 oranges total! 5 + 3 = 8. This one na addition word problem!,math,pidgin,beginner,2026-02-08T11:52:56.341444
+"Ada get 20 naira, she spend 12 naira. Wetin remain?","20 - 12 = 8 naira remain for Ada. She don spend 12, so she get 8 naira left!",math,pidgin,beginner,2026-02-08T11:52:56.341525
+"If 1 book cost 50 naira, how much be 6 books?",6 books go cost 300 naira! 50 × 6 = 300. Just multiply the price by the number of books!,math,pidgin,beginner,2026-02-08T11:52:56.341587
+Wetin be programming?,"Programming na when you dey write instructions for computer to follow. E be like when you dey give your younger one instructions to do something, but for computer, the instructions must dey very clear and specific. We call am 'code'.",coding,pidgin,beginner,2026-02-08T11:52:56.341726
+Why I go learn programming?,Programming go help you: 1) Build your own apps and websites 2) Get better job wey dey pay well 3) Solve problems with technology 4) Create things wey fit help people. E be valuable skill for today world!,coding,pidgin,beginner,2026-02-08T11:52:56.341845
+Wetin be code?,Code na the instructions wey you write for programming language. E be like recipe wey tell computer wetin to do step by step!,coding,pidgin,beginner,2026-02-08T11:52:56.342311
+How I go start learn Python?,"Python na very good language to start! E easy and e dey useful. First thing, you go learn how to print message: print('Hello World'). This line go make computer display 'Hello World' for screen. You wan see example?",coding,pidgin,beginner,2026-02-08T11:52:56.342432
+Wetin be Python?,"Python na programming language wey dey very popular and easy to learn. People dey use am build websites, apps, AI, games, and plenty other things. E get simple syntax wey dey read like English!",coding,pidgin,beginner,2026-02-08T11:52:56.342546
+Show me Python example,"Simple Python example:
+
+print('Hello Nigeria!')
+
+This one line go display 'Hello Nigeria!' for your screen. E simple abi?",coding,pidgin,beginner,2026-02-08T11:52:56.342663
+Wetin be variable for programming?,"Variable na like box wey you fit keep information inside. For Python, you fit write: name = 'Chidi'. Now, anytime you write 'name', computer go remember say na 'Chidi'. E dey help us store and use data.",coding,pidgin,beginner,2026-02-08T11:52:56.342720
+How I go create variable?,"To create variable for Python, just write the name, equals sign, then the value:
+
+age = 25
+name = 'Ada'
+price = 500.50
+
+E simple like that!",coding,pidgin,beginner,2026-02-08T11:52:56.342759
+Fit I change variable value?,"Yes! You fit change variable anytime:
+
+score = 10
+print(score)  # Shows 10
+
+score = 20
+print(score)  # Shows 20
+
+The variable go always hold the latest value!",coding,pidgin,beginner,2026-02-08T11:52:56.342825
+Wetin be data types?,"Data types na different kinds of information:
+
+- int (whole numbers): age = 25
+- float (decimal): price = 99.99
+- string (text): name = 'Tunde'
+- bool (True/False): is_student = True
+
+Python smart, e go know which type automatically!",coding,pidgin,beginner,2026-02-08T11:52:56.342897
+How I go use print?,"Print dey display message for screen:
+
+print('Hello')
+print(25)
+print('I get', 5, 'oranges')
+
+You fit print text, numbers, or mix them together!",coding,pidgin,beginner,2026-02-08T11:52:56.342958
+Wetin be f-string?,"F-string na modern way to format text for Python:
+
+name = 'Bola'
+age = 20
+print(f'My name na {name}, I be {age} years')
+
+E go show: My name na Bola, I be 20 years. The {curly braces} dey put variable values inside text!",coding,pidgin,intermediate,2026-02-08T11:52:56.342990
+How I go use input for Python?,"Input dey allow your program ask user for information. See:
+
+name = input('Wetin be your name? ')
+print(f'Hello {name}!')
+
+The program go wait make user type their name, then e go greet them.",coding,pidgin,beginner,2026-02-08T11:52:56.343042
+Input dey always give string?,"Yes! Input always give string. If you wan number, you need convert am:
+
+age = input('How old you be? ')
+age = int(age)  # Convert to number
+
+Or short way:
+age = int(input('How old you be? '))",coding,pidgin,intermediate,2026-02-08T11:52:56.343073
+Show me how to write if statement,"If statement dey help computer make decision. See example:
+
+age = 18
+if age >= 18:
+    print('You don old reach to vote')
+else:
+    print('You never old reach')
+
+The computer go check the condition and decide which code to run.",coding,pidgin,intermediate,2026-02-08T11:52:56.343175
+Wetin be if-elif-else?,"Elif na 'else if', e dey allow you check multiple conditions:
+
+score = 75
+if score >= 90:
+    print('Excellent!')
+elif score >= 70:
+    print('Good!')
+elif score >= 50:
+    print('Pass')
+else:
+    print('Fail')
+
+E go check from top to bottom until e find True condition!",coding,pidgin,intermediate,2026-02-08T11:52:56.343243
+Wetin be loop?,"Loop na when you wan make computer do something many times. Like if you wan print numbers from 1 to 5:
+
+for i in range(1, 6):
+    print(i)
+
+This go print 1, 2, 3, 4, 5. E dey save time pass to write am one by one.",coding,pidgin,beginner,2026-02-08T11:52:56.343290
+Wetin be for loop?,"For loop dey repeat code specific number of times:
+
+for i in range(5):
+    print('Hello')
+
+This go print 'Hello' 5 times. Range(5) mean 0,1,2,3,4!",coding,pidgin,beginner,2026-02-08T11:52:56.343334
+Wetin be while loop?,"While loop dey continue until condition become False:
+
+count = 0
+while count < 5:
+    print(count)
+    count = count + 1
+
+E go print 0,1,2,3,4. Make sure the condition go become False, if not, infinite loop!",coding,pidgin,intermediate,2026-02-08T11:52:56.343430
+Wetin be list for Python?,"List na like basket wey you fit put many things inside. For Python:
+
+fruits = ['apple', 'banana', 'orange']
+
+You fit add, remove, or change things inside the list. E dey very useful for organizing data.",coding,pidgin,beginner,2026-02-08T11:52:56.343497
+How I go add to list?,"Use append() to add:
+
+fruits = ['apple']
+fruits.append('banana')
+print(fruits)  # ['apple', 'banana']
+
+Or use insert() to add for specific position:
+fruits.insert(0, 'orange')  # Add for beginning",coding,pidgin,beginner,2026-02-08T11:52:56.343542
+How I go remove from list?,"You get different ways:
+
+fruits = ['apple', 'banana', 'orange']
+fruits.remove('banana')  # Remove by value
+fruits.pop()  # Remove last item
+fruits.pop(0)  # Remove first item
+
+Choose which one based on wetin you wan do!",coding,pidgin,intermediate,2026-02-08T11:52:56.343593
+How I go write function for Python?,"Function na block of code wey you fit use many times. See example:
+
+def greet(name):
+    print(f'Hello {name}!')
+
+greet('Ada')
+
+This function go print 'Hello Ada!'. You fit call am anytime with different names.",coding,pidgin,intermediate,2026-02-08T11:52:56.343633
+Wetin be function parameter?,"Parameter na information wey function need:
+
+def add(a, b):
+    return a + b
+
+result = add(5, 3)  # result = 8
+
+'a' and 'b' na parameters. When you call add(5, 3), a=5 and b=3!",coding,pidgin,intermediate,2026-02-08T11:52:56.343731
+Wetin be return?,"Return dey send value back from function:
+
+def multiply(x, y):
+    return x * y
+
+answer = multiply(4, 5)  # answer = 20
+
+Without return, the function go just do work but no give you result!",coding,pidgin,intermediate,2026-02-08T11:52:56.343807
+Wetin be dictionary for Python?,"Dictionary na like real dictionary - e store key-value pairs:
+
+person = {
+    'name': 'Chidi',
+    'age': 25,
+    'city': 'Lagos'
+}
+
+print(person['name'])  # Shows 'Chidi'
+
+E perfect for storing related information!",coding,pidgin,intermediate,2026-02-08T11:52:56.343855
+How I go work with strings?,"Strings get plenty methods:
+
+text = 'hello world'
+print(text.upper())  # 'HELLO WORLD'
+print(text.capitalize())  # 'Hello world'
+print(text.replace('world', 'Nigeria'))  # 'hello Nigeria'
+print(len(text))  # 11
+
+Python get many ways to manipulate text!",coding,pidgin,intermediate,2026-02-08T11:52:56.343895
+Wetin be comment for code?,"Comments na notes for human, computer go ignore them:
+
+# This na single line comment
+age = 25  # You fit add comment after code
+
+'''
+This one na
+multiple line comment
+'''
+
+Comments dey help explain wetin your code dey do!",coding,pidgin,beginner,2026-02-08T11:52:56.343932
+Wetin I go do if I get error?,"Errors dey normal for programming! Read the error message, e go tell you:
+
+1) Which line get problem
+2) Wetin the problem be
+
+Common errors:
+- SyntaxError: You write code wrong
+- NameError: Variable no exist
+- TypeError: Wrong data type
+
+No fear error, na part of learning!",coding,pidgin,beginner,2026-02-08T11:52:56.344001
+Hello,Hello! How you dey? I be AI wey dey teach Mathematics and Coding for Pidgin. Wetin you wan learn today?,general,pidgin,beginner,2026-02-08T11:52:56.344185
+Hi,Hi! Welcome! I happy say you come. You wan learn Math or Coding today?,general,pidgin,beginner,2026-02-08T11:52:56.344223
+Good morning,Good morning! How your night? You ready to learn something new this morning?,general,pidgin,beginner,2026-02-08T11:52:56.344248
+Good afternoon,Good afternoon! Hope say your day dey go well. Wetin you wan learn this afternoon?,general,pidgin,beginner,2026-02-08T11:52:56.344271
+Good evening,Good evening! How your day been? Make we learn something before night reach!,general,pidgin,beginner,2026-02-08T11:52:56.344295
+I wan learn coding,"Coding na very good skill to learn! E fit help you build apps, websites, and many useful things. You don do any programming before or you be complete beginner?",general,pidgin,beginner,2026-02-08T11:52:56.344319
+I wan learn mathematics,"Mathematics na important subject! E go help you for everyday life and for any career. Which part of Math you wan start with? Addition, Subtraction, Fractions?",general,pidgin,beginner,2026-02-08T11:52:56.344341
+I be complete beginner,"No problem at all! Everybody start from somewhere. I go teach you from the very beginning, step by step. We go start with the basics and build from there. You ready?",general,pidgin,beginner,2026-02-08T11:52:56.344365
+Wetin you fit teach me?,"I fit teach you:
+📐 Mathematics - Addition, Subtraction, Multiplication, Division, Fractions, Percentages, Algebra
+💻 Coding - Python basics, Variables, Functions, Loops, Lists
+
+Just tell me which one you wan learn!",general,pidgin,beginner,2026-02-08T11:52:56.344388
+I no understand,No worry! Make I try explain am again for different way. Which part you no understand? Ask me specific question and I go break am down small small.,general,pidgin,beginner,2026-02-08T11:52:56.344410
+E hard o,"I know say e fit look hard at first, but make we take am slow. No rush! Ask me any part wey confuse you, and I go explain am better. Remember, practice make perfect!",general,pidgin,beginner,2026-02-08T11:52:56.344433
+Help me,"I dey here to help you! Tell me wetin you need help with - Math question or Coding problem? The more specific you be, the better I fit help you.",general,pidgin,beginner,2026-02-08T11:52:56.344656
+I confuse,"No problem, confusion na part of learning! Make you ask me specific question about the part wey confuse you. We go sort am out together!",general,pidgin,beginner,2026-02-08T11:52:56.344788
+You dey help me well well,"I happy say I fit help you! Learning na journey, and you dey do well. Continue to ask questions, na so person dey learn quick.",general,pidgin,beginner,2026-02-08T11:52:56.344958
+I dey learn,That's the spirit! You dey do very well. Keep practicing and you go become expert soon. Wetin you wan learn next?,general,pidgin,beginner,2026-02-08T11:52:56.345035
+I dey improve,Excellent! I dey proud of your progress. E no easy but you dey make am happen. Continue like this and you go reach your goal!,general,pidgin,beginner,2026-02-08T11:52:56.345086
+Thank you,"You dey welcome! If you get any question about Mathematics or Coding, just ask me. I dey here to help you learn.",general,pidgin,beginner,2026-02-08T11:52:56.345269
+Thanks,No problem at all! I happy say I fit help you. Come back anytime you wan learn more!,general,pidgin,beginner,2026-02-08T11:52:56.345408
+I appreciate,"You dey very welcome! Na my pleasure to help you learn. If you need anything else, just holla!",general,pidgin,beginner,2026-02-08T11:52:56.345521
+Bye,Bye bye! Come back anytime you wan learn something new. I go dey here waiting. Keep practicing what you don learn!,general,pidgin,beginner,2026-02-08T11:52:56.345578
+See you later,See you later! Hope say you don learn something new today. Practice well and come back when you ready for more!,general,pidgin,beginner,2026-02-08T11:52:56.345614
+Goodbye,Goodbye! You do well today. Remember to practice what we don learn. I dey wait you next time!,general,pidgin,beginner,2026-02-08T11:52:56.345646
+Who you be?,I be AI tutor wey dey teach Mathematics and Coding for Nigerian Pidgin English. My job na to make learning easy and fun for you!,general,pidgin,beginner,2026-02-08T11:52:56.345679
+How you dey work?,"I be AI (Artificial Intelligence) wey dem train to understand Pidgin and explain Math and Coding concepts. You ask question, I go give you answer for way wey you go understand!",general,pidgin,beginner,2026-02-08T11:52:56.345711
+You na human?,"No, I no be human. I be AI chatbot wey dem program to help people learn. But I dey do my best to explain things like how good teacher go do am!",general,pidgin,beginner,2026-02-08T11:52:56.345749
+I fit learn am?,Yes! You fit definitely learn am! Everybody fit learn Math and Coding if them get the right teacher and them practice. I dey here to guide you every step. Believe for yourself!,general,pidgin,beginner,2026-02-08T11:52:56.345781
+E go hard?,"E fit look hard at first, but as you dey practice, e go become easier. The key na to start small, practice well, and no give up. I go dey with you throughout the journey!",general,pidgin,beginner,2026-02-08T11:52:56.345812
