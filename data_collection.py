@@ -51,6 +51,66 @@ class PidginDataCollector:
 SAMPLE_MATH_DATA = [
     # Basic Addition
     {
+        "user": "What be 7 times 8?",
+        "bot": "7 × 8 = 56. You fit remember am like this: 7 eights = 56. Practice the multiplication table well, e go help you!",
+        "category": "math",
+        "difficulty": "beginner"
+    },
+    {
+        "user": "How I go solve 2x + 5 = 15?",
+        "bot": "Make we solve together! First, minus 5 from both sides: 2x = 10. Then divide by 2: x = 5. So x be 5!",
+        "category": "math",
+        "difficulty": "intermediate"
+    },
+    {
+        "user": "Wetin be square root?",
+        "bot": "Square root na the opposite of squaring. Like square root of 16 na 4, because 4 × 4 = 16. E dey answer the question: 'which number multiply by itself go give me this number?'",
+        "category": "math",
+        "difficulty": "intermediate"
+    },
+    {
+        "user": "Calculate 150 ÷ 3",
+        "bot": "150 ÷ 3 = 50. You fit think am as: if you share 150 naira for 3 people equally, each person go get 50 naira!",
+        "category": "math",
+        "difficulty": "beginner"
+    },
+    {
+        "user": "Wetin be area of rectangle?",
+        "bot": "Area of rectangle = length × width. For example, if your room be 4 meters long and 3 meters wide, the area na 4 × 3 = 12 square meters!",
+        "category": "math",
+        "difficulty": "intermediate"
+    },
+    {
+        "user": "How I go find average?",
+        "bot": "To find average, add all the numbers together, then divide by how many numbers you get. Like average of 5, 10, 15 = (5+10+15) ÷ 3 = 30 ÷ 3 = 10!",
+        "category": "math",
+        "difficulty": "intermediate"
+    },
+    {
+        "user": "Calculate 25% of 200",
+        "bot": "25% of 200 = 50. Remember: 25% na quarter, so just divide by 4. 200 ÷ 4 = 50. Easy!",
+        "category": "math",
+        "difficulty": "intermediate"
+    },
+    {
+        "user": "Wetin be prime number?",
+        "bot": "Prime number na number wey only two numbers fit divide am - 1 and the number itself. Like 2, 3, 5, 7, 11, 13. You no fit break them into smaller whole numbers!",
+        "category": "math",
+        "difficulty": "intermediate"
+    },
+    {
+        "user": "How I go multiply 13 × 12?",
+        "bot": "13 × 12 = 156. You fit do am like this: (13 × 10) + (13 × 2) = 130 + 26 = 156. This method dey work well!",
+        "category": "math",
+        "difficulty": "beginner"
+    },
+    {
+        "user": "Wetin be even and odd numbers?",
+        "bot": "Even numbers na numbers wey you fit divide by 2 with no remainder - like 2, 4, 6, 8, 10. Odd numbers na the ones wey remain something when you divide by 2 - like 1, 3, 5, 7, 9.",
+        "category": "math",
+        "difficulty": "beginner"
+    },
+    {
         "user": "Wetin be algebra?",
         "bot": "Algebra na mathematics wey dey use letters like x, y, z to represent numbers wey we never know. E dey help us solve problem. For example, if you get x + 5 = 10, we fit find wetin x be by minus 5 from both sides. So x = 5.",
         "category": "math",
@@ -261,6 +321,66 @@ SAMPLE_MATH_DATA = [
 # EXPANDED Sample Coding Data - 50+ conversations
 SAMPLE_CODING_DATA = [
     # Introduction to Programming
+    {
+        "user": "How I go write while loop?",
+        "bot": "While loop dey run code until condition become False:\n\ncount = 0\nwhile count < 5:\n    print(count)\n    count = count + 1\n\nE go print 0,1,2,3,4. Make sure the condition go become False oh, if not infinite loop!",
+        "category": "coding",
+        "difficulty": "intermediate"
+    },
+    {
+        "user": "Wetin be string for Python?",
+        "bot": "String na text wey you put inside quotes. You fit use single or double quotes:\n\nname = 'Ada'\nmessage = \"Hello World\"\n\nStrings dey help us work with words and sentences for our code!",
+        "category": "coding",
+        "difficulty": "beginner"
+    },
+    {
+        "user": "How I go add two numbers for Python?",
+        "bot": "To add numbers for Python, use the + sign:\n\nnum1 = 10\nnum2 = 20\ntotal = num1 + num2\nprint(total)  # Shows 30\n\nE simple like that!",
+        "category": "coding",
+        "difficulty": "beginner"
+    },
+    {
+        "user": "Wetin be comment for code?",
+        "bot": "Comment na note wey you write for inside your code. Computer go ignore am, na only humans go read am:\n\n# This na comment\nname = 'Tunde'  # You fit add comment here too\n\nComments dey help explain wetin your code dey do!",
+        "category": "coding",
+        "difficulty": "beginner"
+    },
+    {
+        "user": "How I go check if number be even?",
+        "bot": "Use the modulo operator (%):\n\nnum = 10\nif num % 2 == 0:\n    print('Even number')\nelse:\n    print('Odd number')\n\nIf remainder after dividing by 2 na 0, the number be even!",
+        "category": "coding",
+        "difficulty": "intermediate"
+    },
+    {
+        "user": "Wetin be else statement?",
+        "bot": "Else dey run code when the if condition be False:\n\nage = 15\nif age >= 18:\n    print('You fit vote')\nelse:\n    print('You never old reach')\n\nE be like 'otherwise' - if first thing no happen, do this one!",
+        "category": "coding",
+        "difficulty": "beginner"
+    },
+    {
+        "user": "How I go join two strings?",
+        "bot": "You fit use + to join strings:\n\nfirst = 'Hello'\nlast = 'World'\nfull = first + ' ' + last\nprint(full)  # Shows 'Hello World'\n\nOr use f-string:\nprint(f'{first} {last}')",
+        "category": "coding",
+        "difficulty": "beginner"
+    },
+    {
+        "user": "Wetin be len() function?",
+        "bot": "len() dey count how many items dey inside something:\n\nname = 'Chidi'\nprint(len(name))  # Shows 5\n\nfruits = ['apple', 'banana']\nprint(len(fruits))  # Shows 2\n\nE dey very useful!",
+        "category": "coding",
+        "difficulty": "beginner"
+    },
+    {
+        "user": "How I go convert string to number?",
+        "bot": "Use int() for whole numbers or float() for decimals:\n\nage_text = '25'\nage_number = int(age_text)\nprint(age_number + 5)  # Shows 30\n\nprice_text = '99.99'\nprice = float(price_text)\nprint(price)  # Shows 99.99",
+        "category": "coding",
+        "difficulty": "intermediate"
+    },
+    {
+        "user": "Wetin be True and False for Python?",
+        "bot": "True and False na Boolean values - them be like Yes or No:\n\nis_student = True\nis_working = False\n\nif is_student:\n    print('Na student you be')\n\nYou fit use them for decision making for your code!",
+        "category": "coding",
+        "difficulty": "beginner"
+    },
     {
         "user": "Wetin be programming?",
         "bot": "Programming na when you dey write instructions for computer to follow. E be like when you dey give your younger one instructions to do something, but for computer, the instructions must dey very clear and specific. We call am 'code'.",
