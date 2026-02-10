@@ -99,3 +99,17 @@ cd pidgin-ai-tutor
 [![Latest Release](https://img.shields.io/github/v/release/Olamide-dev007/Pidgin_AI_Tutor?color=green)](https://github.com/Olamide-dev007/Pidgin_AI_Tutor/releases/latest)
 
 Check out v0.1.0 – Initial Release: [View Release →](https://github.com/Olamide-dev007/Pidgin_AI_Tutor/releases/tag/v0.1.0)
+
+## Screenshots
+
+### Homepage
+![Homepage](screenshots/homepage.png)
+
+### Sidebar
+![Sidebar](screenshots/sidebar.png)
+
+### Conversation View
+![Conversation](screenshots/conversation.png)
+
+### Feedback Page
+![Feedback](screenshots/feedback.png)
